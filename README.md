@@ -1,3 +1,9 @@
+## Companion work
+
+[`sd-lora-fmri-superres`](https://github.com/ozgursntrk/sd-lora-fmri-superres) attacks the same
+inverse problem with a pretrained latent diffusion model instead of a from-scratch DDPM prior,
+using the same degradation operator, subject split, and metric space.
+
 # sd-lora-fmri-superres
 
 Latent diffusion super-resolution for 7T fMRI-EPI brain images: a **channel-conditioned
