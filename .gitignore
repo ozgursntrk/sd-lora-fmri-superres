@@ -1,0 +1,7 @@
+mri_sd_lora_ep*/
+mri_sd_lora_final/
+*.pth
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+figures/
